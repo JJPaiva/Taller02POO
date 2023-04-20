@@ -1,5 +1,11 @@
 # Taller02POO
 
+Integrantes:
+
+-Enzo Loren
+
+-Juan Paiva
+
 Primero, vamos a inicializar una matriz que represente las habitaciones del hotel. La matriz tendrá 10 filas (una por cada habitación) y 3 columnas. La primera columna almacenará el estado de la habitación (0 para disponible, 1 para ocupada y 2 para reservada), la segunda columna indicará si se incluyen comidas (0 para sin comidas, 1 para con comidas) y la tercera columna almacenará la cantidad de días de estadía.
 
 Luego, mostraremos un menú de opciones al administrador, que le permitirá realizar diversas acciones como consultar el estado de las habitaciones, reservar una habitación, ocupar una habitación, liberar una habitación o reiniciar el hotel.
